@@ -1,2 +1,20 @@
-# Nanbai_High_School_of_Zunyi_City
-A minecraft world dedicated to the 70th anniversary of my senior high.
+# 遵义市南白中学
+
+本存档版本为 beta (2026/5/29)
+
+作者: Tito_Grumm
+二次分发请联系作者
+请勿将本存档用于除观赏游玩以外的任何用途
+
+**版本建议**
+基岩版： 1.21.130 及以上（导入 n.mcworld）
+Java版： 1.21.11 及以上（导入 n.zip）
+
+推荐开启 **灵动视效/光线追踪** 以获取最佳体验
+
+推荐开启 **教育版（基岩版）** 以确保方块显示完整
+
+本存档基于作者**在校期间**对校园外观的**印象**搭建，请以实际为准
+
+建筑中可能残留结构方块或其他漏洞，欢迎反馈至作者邮箱：tito_grumm@foxmail.com
+让我们共同完善回忆！
